@@ -1,2 +1,2 @@
 # Dongsheng
-swc training
+swc
